@@ -1,4 +1,5 @@
 # Sports Products Multi-Class Classification
+[Deployment](./Deployment.gif)
 ## INTRODUCTION:
 Society's interest in sports is expanding, and there are many sports available now that many people are unaware of. Our research will use convolutional neural networks (CNNs) and several deep learning approaches and pre-trend models to perform multi-class classification for 11 different types of sports or their equipment, such as a ball, baseball bat, baseball gloves, bowling bin, dumbbell, boxing gloves, football helmets, racket, sports shoes, t-shirt, and whistle. 
 
